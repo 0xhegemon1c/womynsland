@@ -4,11 +4,11 @@ body {
 
 p {
 	font-size: 50px;
-	font-color: white; 
 	font-family: "Georgia";
+	color: white; 
 }
 
 footer {
-	font-color: white; 
 	font-family: "Georgia";
+	color: white; 
 }
