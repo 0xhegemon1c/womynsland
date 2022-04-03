@@ -1,7 +1,7 @@
 body {
 	background-color: #f7d7fc;
 	text-align: center;
-	color: #ffffff; 
+	color: white; 
 }
 
 p {
@@ -11,5 +11,5 @@ p {
 
 footer {
 	font-family: "Georgia";
-	color: #ffffff; 
+	color: white; 
 }
