@@ -1,15 +1,15 @@
 body {
 	background-color: #f7d7fc;
 	text-align: center;
+	color: #ffffff; 
 }
 
 p {
 	font-size: 50px;
-	font-family: "Georgia";
-	color: white; 
+	font-family: "Georgia"; 
 }
 
 footer {
 	font-family: "Georgia";
-	color: white; 
+	color: #ffffff; 
 }
