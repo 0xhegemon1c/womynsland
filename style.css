@@ -5,11 +5,6 @@ body {
 }
 
 p {
-	font-size: 50px;
+	font-size: 80px;
 	font-family: "Georgia"; 
-}
-
-footer {
-	font-family: "Georgia";
-	color: white; 
 }
