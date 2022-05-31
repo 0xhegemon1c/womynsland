@@ -10,3 +10,8 @@ figcaption {
 	font-family: "Georgia";
 	font-size: 40px;
 }
+
+img {
+  width: 270px;
+  border: 1px solid black;
+}
