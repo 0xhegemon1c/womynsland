@@ -11,7 +11,7 @@ figcaption {
 	font-size: 40px;
 }
 
-img.scrnshot {
+.scrnshot {
   width: 270px;
   border: 1px solid black;
 }
