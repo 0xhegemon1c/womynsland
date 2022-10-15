@@ -10,7 +10,7 @@ body {
 }
 
 #stroke {
-  -webkit-text-stroke:5px black;
+  -webkit-text-stroke:1x black;
   -webkit-text-fill-color:transparent;
 }
 
